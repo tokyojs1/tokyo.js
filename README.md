@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/304796378494926848" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/304796378494926848" alt="Discord Status" width="250"/>
+    <img src="https://lanyard.cnrad.dev/api/304796378494926848" alt="Discord Profile & Status" width="250"/>
   </a>
 </p>
 
@@ -29,4 +29,3 @@
   <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge">
   <img src="https://img.shields.io/badge/GitHub-Active-green?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
 </p>
-
