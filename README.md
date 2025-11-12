@@ -1,7 +1,2 @@
-- 👋 Hi, I’m @tokyojs1
-- I'm boy
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- ⚡ Fun fact: nothing
-- if you need anything tell me in discord:  tokyo.js
+<a href="https://discord.com/users/304796378494926848" target="_blank">
+        <img src="https://lanyard.cnrad.dev/api/304796378494926848">
