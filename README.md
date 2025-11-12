@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://discord.com/users/304796378494926848" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07447E&width=435&lines=Hi+there+%2C+I'm+Toky+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07447E&width=435&lines=Hi+there+%2C+I'm+Tokyo+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </h1>
 
