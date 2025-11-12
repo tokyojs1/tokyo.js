@@ -30,3 +30,10 @@
   <img src="https://img.shields.io/badge/GitHub-Active-green?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tokyojs1&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
